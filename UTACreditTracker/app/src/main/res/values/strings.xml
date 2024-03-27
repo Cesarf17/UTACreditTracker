@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTA Credit Tracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="select_degree">Select Degree</string>
+    <string name="software_engineering_selection">Software Engineering (SE)</string>
+    <string name="computer_engineering_selection">Computer Engineering (CE)</string>
+    <string name="computer_science_selection">Computer Science(CSE)</string>
+</resources>

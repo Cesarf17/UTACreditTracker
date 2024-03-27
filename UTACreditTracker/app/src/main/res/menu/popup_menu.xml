@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/software_engineering_selection"
+        android:id="@+id/swe_selection" />
+
+    <item
+        android:title="@string/computer_engineering_selection"
+        android:id="@+id/ce_selection" />
+
+    <item
+        android:title="@string/computer_science_selection"
+        android:id="@+id/cse_selection" />
+</menu>
